@@ -1,2 +1,2 @@
-# MRP2021
-CO2 prediction by vehicles
+# Predicting CO2 from smart city perspective
+CO2 prediction by new vehicles
