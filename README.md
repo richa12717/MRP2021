@@ -15,7 +15,7 @@ As linear regression might not capture complex relationships, I explored polynom
 Ridge Regression and Lasso Regression:
 To deal with potential multicollinearity issues among predictors, I employed ridge regression and lasso regression. Both techniques add regularization terms to the traditional linear regression model, which helps to prevent overfitting and stabilize the coefficient estimates. Ridge regression uses L2 regularization, while Lasso regression uses L1 regularization, resulting in sparse coefficient estimates.
 
-Other models used are :Decision Trees, Random Forest, Support Vector Regression (SVR),Gradient Boosting Regression, Lazy regressor.
+Other models used are :Support Vector Regressor, Decision Trees, Random Forest, Support Vector Regression (SVR),Gradient Boosting Regression, Lazy regressor.
 
 
 Overall, I compared the performance of these regression models using various evaluation metrics, such as mean squared error, mean absolute error, and R-squared, to identify the most suitable model for our dataset. Through this comprehensive analysis, we gained valuable insights into the relationships between the predictors and the target variable, enabling us to make accurate predictions.
